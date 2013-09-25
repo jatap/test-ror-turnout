@@ -1,0 +1,57 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+<c-r><tab>	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/after/plugin/snipMate.vim	/^ino <silent> <c-r><tab> <c-r>=ShowAvailableSnips()<cr>$/;"	m
+<s-tab>	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/after/plugin/snipMate.vim	/^ino <silent> <s-tab> <c-r>=BackwardsSnippet()<cr>$/;"	m
+<tab>	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/after/plugin/snipMate.vim	/^ino <silent> <tab> <c-r>=TriggerSnippet()<cr>$/;"	m
+AllFiles	/Users/julioantuneztarin/Rails/turnout/coverage/index.html	/^  <a name="AllFiles"><\/a>$/;"	a
+Application	/Users/julioantuneztarin/Rails/turnout/config/application.rb	/^  class Application < Rails::Application$/;"	c	class:Turnout
+ApplicationController	/Users/julioantuneztarin/Rails/turnout/app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
+ApplicationHelper	/Users/julioantuneztarin/Rails/turnout/app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m
+BackwardsSnippet	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun! BackwardsSnippet()$/;"	f
+Binaries	/Users/julioantuneztarin/Rails/turnout/coverage/index.html	/^  <a name="Binaries"><\/a>$/;"	a
+BuildTabStops	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun s:BuildTabStops(snip, lnum, col, indent)$/;"	f
+ChooseSnippet	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun s:ChooseSnippet(scope, trigger)$/;"	f
+Close	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/ftplugin/html_snip_helper.vim	/^fun! Close()$/;"	f
+Count	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun s:Count(haystack, needle)$/;"	f
+DefineSnips	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun s:DefineSnips(dir, aliasft, realft)$/;"	f
+Extensions	/Users/julioantuneztarin/Rails/turnout/coverage/index.html	/^  <a name="Extensions"><\/a>$/;"	a
+ExtractSnips	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun! ExtractSnips(dir, ft)$/;"	f
+ExtractSnipsFile	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun! ExtractSnipsFile(file, ft)$/;"	f
+Filename	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun! Filename(...)$/;"	f
+GetSnippet	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun s:GetSnippet(word, scope)$/;"	f
+GetSnippets	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun! GetSnippets(dir, filetypes)$/;"	f
+Libraries	/Users/julioantuneztarin/Rails/turnout/coverage/index.html	/^  <a name="Libraries"><\/a>$/;"	a
+MakeSnip	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun! MakeSnip(scope, trigger, content, ...)$/;"	f
+ProcessFile	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun s:ProcessFile(file, ft, ...)$/;"	f
+ProcessSnippet	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun s:ProcessSnippet(snip)$/;"	f
+ReloadAllSnippets	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun! ReloadAllSnippets()$/;"	f
+ReloadSnippets	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun! ReloadSnippets(ft)$/;"	f
+RemoveSnippet	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun s:RemoveSnippet()$/;"	f
+ResetAllSnippets	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun! ResetAllSnippets()$/;"	f
+ResetSnippets	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun! ResetSnippets(ft)$/;"	f
+SelectWord	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun s:SelectWord()$/;"	f
+ShowAvailableSnips	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun! ShowAvailableSnips()$/;"	f
+StaticPagesController	/Users/julioantuneztarin/Rails/turnout/app/controllers/static_pages_controller.rb	/^class StaticPagesController < ApplicationController$/;"	c
+TriggerSnippet	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^fun! TriggerSnippet()$/;"	f
+Turnout	/Users/julioantuneztarin/Rails/turnout/config/application.rb	/^module Turnout$/;"	m
+Ungrouped	/Users/julioantuneztarin/Rails/turnout/coverage/index.html	/^  <a name="Ungrouped"><\/a>$/;"	a
+UpdateChangedSnip	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun s:UpdateChangedSnip(entering)$/;"	f
+UpdatePlaceholderTabStops	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun s:UpdatePlaceholderTabStops()$/;"	f
+UpdateTabStops	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun s:UpdateTabStops()$/;"	f
+UpdateVars	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun s:UpdateVars()$/;"	f
+VendorLibraries	/Users/julioantuneztarin/Rails/turnout/coverage/index.html	/^  <a name="VendorLibraries"><\/a>$/;"	a
+about	/Users/julioantuneztarin/Rails/turnout/app/controllers/static_pages_controller.rb	/^  def about$/;"	f	class:StaticPagesController
+g:did_ft	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^let g:did_ft = {}$/;"	v
+home	/Users/julioantuneztarin/Rails/turnout/app/controllers/static_pages_controller.rb	/^  def home$/;"	f	class:StaticPagesController
+loaded_snips	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^let loaded_snips = 1$/;"	v
+s:did_snip_helper	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/ftplugin/html_snip_helper.vim	/^let s:did_snip_helper = 1$/;"	v
+s:did_snips_mappings	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/after/plugin/snipMate.vim	/^let s:did_snips_mappings = 1$/;"	v
+s:snippets	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^let s:snippets = {} | let s:multi_snips = {}$/;"	v
+snipMate#expandSnip	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun snipMate#expandSnip(snip, col)$/;"	f
+snipMate#jumpTabStop	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/autoload/snipMate.vim	/^fun snipMate#jumpTabStop(backwards)$/;"	f
+snippets_dir	/Users/julioantuneztarin/Rails/turnout/tmp/snipmate.vim/plugin/snipMate.vim	/^	let snippets_dir = substitute(globpath(&rtp, 'snippets\/'), "\\n", ',', 'g')$/;"	v
+toggle	/Users/julioantuneztarin/Rails/turnout/tmp/brakeman_results.html	/^    function toggle(context) {$/;"	f
